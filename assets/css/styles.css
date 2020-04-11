@@ -2922,3 +2922,8 @@ footer ul a:hover {
 .no-js .preload {
 	display: none
 }
+
+.footer-block {
+	flex:auto;
+	display:inline-block;
+}
