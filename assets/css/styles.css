@@ -2955,7 +2955,7 @@ footer ul a:hover {
 
 .footer-heading {
 	font-weight:600;
-	text-decoration: underline;
+	font-size: 25px;
 }
 
 @media (max-width: 992px) {
