@@ -2819,10 +2819,11 @@ footer {
 	background: #fff;
 	padding: 1.25rem 1.5625rem;
 	margin-top: 3.125rem;
-	margin-bottom: 7.5rem;
+	margin-bottom: 2rem;
 	font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
 	font-weight: 300;
-	font-style: normal
+	font-style: normal;
+	border-bottom: 1px solid #262626;
 }
 
 footer::after {
@@ -2949,6 +2950,9 @@ footer ul a:hover {
 	text-align: center;
 	padding-top: 20px;
 	color: #fff;
+	font-weight: 600;
+	font-size: 11px;
+	padding-bottom: 20px;
 }
 .post-image {
 	border-radius: 10px;
