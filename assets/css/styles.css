@@ -2930,5 +2930,11 @@ footer ul a:hover {
 }
 
 .footer-text {
-	font-weight: 400;
+	font-weight: 600;
+	color: #fff;
+}
+
+.footer-icon {
+	padding: auto;
+	Margin: 20px;
 }
