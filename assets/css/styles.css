@@ -2940,6 +2940,14 @@ footer ul a:hover {
 	width:200px;
 }
 
+.footer-cpt-1 {
+	text-align: center;
+}
+
+.footer-credits {
+	width: 100px;
+	text-align: center;
+}
 .post-image {
 	border-radius: 10px;
 }
