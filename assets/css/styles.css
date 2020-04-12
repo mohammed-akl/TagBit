@@ -2955,6 +2955,9 @@ footer ul a:hover {
 	font-size: 25px;
 }
 
+.logo-png {
+	height: 50px;
+}
 @media (max-width: 992px) {
 	.footer-block {
 		width: 100%;
