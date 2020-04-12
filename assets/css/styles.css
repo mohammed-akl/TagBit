@@ -2944,8 +2944,14 @@ footer ul a:hover {
 	border-radius: 10px;
 }
 
-@media (max-width: 992px) {
+@media (max-width: 698px) {
 	.footer-block {
 		width: 100%;
+	}
+}
+
+@media (min-width: 699px; max-width: 992px;) {
+	.footer-block {
+		width: 50%;
 	}
 }
