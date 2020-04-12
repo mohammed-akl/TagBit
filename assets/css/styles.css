@@ -2927,11 +2927,7 @@ footer ul a:hover {
 	display:inline-block;
 	margin:.376rem;
 	width:24%;
-}
-
-.footer-text {
-	font-weight: 600;
-	color: #fff;
+	float: inline-start;
 }
 
 .footer-icon {
@@ -2948,6 +2944,7 @@ footer ul a:hover {
 	width: 100%;
 	text-align: center;
 	padding-top: 20px;
+	float:right;
 }
 .post-image {
 	border-radius: 10px;
