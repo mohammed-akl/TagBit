@@ -2926,4 +2926,9 @@ footer ul a:hover {
 .footer-block {
 	flex:auto;
 	display:inline-block;
+	margin:1.5rem;
+}
+
+.footer-text {
+	font-weight: 400;
 }
