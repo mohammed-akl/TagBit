@@ -2945,8 +2945,10 @@ footer ul a:hover {
 }
 
 .footer-credits {
-	width: 100px;
+	width: 100%;
 	text-align: center;
+	padding-top: 20px;
+	color: #fff;
 }
 .post-image {
 	border-radius: 10px;
