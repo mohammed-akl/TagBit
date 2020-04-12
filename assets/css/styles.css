@@ -118,7 +118,6 @@ audio:not([controls]) {
 
 img {
 	border-style: none;
-	border-radius: 10px;
 }
 
 svg:not(:root) {
@@ -2937,4 +2936,9 @@ footer ul a:hover {
 .footer-icon {
 	padding: auto;
 	Margin: 20px;
+	width:200px;
+}
+
+.post-image {
+	border-radius: 10px;
 }
