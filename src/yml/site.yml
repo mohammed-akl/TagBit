@@ -17,6 +17,8 @@ menu:
     url: /about
   - title: Contact
     url: /contact
+  - url: /tags
+    title: Tags
   - title: Feed
     url: /feed.xml
 email: youremail@xyz.com
