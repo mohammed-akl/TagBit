@@ -471,12 +471,6 @@ aside.sidebar nav ul li a:hover {
 	border-radius: 10px;
 }
 
-aside.sidebar nav ul li a:active {
-	color: #fff;
-	background: #ff0a16;
-	border-radius: 10px;
-}
-
 .hero {
 	position: relative;
 	background-position: center center;
