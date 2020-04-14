@@ -1043,7 +1043,8 @@ body.light:not(.main-page) .bar-header .version {
 	width: 100%;
 	height: auto;
 	margin: 0 auto;
-	transition: all 0.2s ease-in-out
+	transition: all 0.2s ease-in-out;
+	box-shadow: 7px 7px rgba(114, 114, 114, 0.3);
 }
 
 .box-item .box-body time {
@@ -1960,7 +1961,7 @@ body.light:not(.main-page) .bar-header .version {
 	color: #141414;
 	display: inline-block;
 	border: 1px solid #141414;
-	border-radius: 1.25rem;
+	border-radius: 15px;
 	padding: 0 .625rem;
 	margin-right: .125rem;
 	margin-bottom: .5rem;
@@ -2270,13 +2271,16 @@ pre span {
 }
 
 .highlight {
-	margin: 1.25rem 0
+	margin: 1.25rem 0;
+	padding: 5px;
+	border-radius: 10px;
 }
 
 @media (min-width: 37.5rem) {
 	.highlight {
 		word-wrap: break-word;
-		margin: 1.8125rem 0
+		margin: 1.8125rem 0;
+		border-radius: 10px;
 	}
 }
 
@@ -2925,9 +2929,10 @@ footer ul a:hover {
 .footer-block {
 	flex:auto;
 	display:inline-block;
-	margin:.376rem;
-	width:24%;
+	margin:.8rem;
+	width:23%;
 	float: inline-start;
+	padding: 10px;
 }
 
 .footer-icon {
