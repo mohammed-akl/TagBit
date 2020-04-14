@@ -34,6 +34,8 @@ HTML defines a long list of available inline tags, a complete list of which can 
 
 Most of these elements are styled by browsers with few modifications on our part.
 
+\--page-break--
+
 # Heading 1
 
 ## Heading 2
@@ -60,6 +62,8 @@ adder(2, 6);
 ```
 
 Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+
+\--page-break--
 
 ## Lists
 
