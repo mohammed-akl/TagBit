@@ -631,7 +631,8 @@ aside.sidebar nav ul li a:hover {
 	border: 0;
 	border-radius: 5px;
 	padding: .3125rem 1.5625rem;
-	outline: 0
+	outline: 0;
+	box-shadow: 7px 7px rgba(114, 114, 114, 0.3);
 }
 
 .search-form:focus {
