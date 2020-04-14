@@ -565,6 +565,11 @@ aside.sidebar nav ul li a:hover {
 	transition: all 0.3s
 }
 
+.button {
+	background-color: rgba(18, 18, 18, 0.64);
+	box-shadow: 7px 7px rgba(0, 0, 0, 0.3);
+}
+
 @media (min-width: 37.5rem) {
 	.hero .content .button {
 		font-size: 1.125rem
