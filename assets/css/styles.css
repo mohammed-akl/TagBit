@@ -2988,3 +2988,15 @@ footer ul a:hover {
 		width: 100%;
 	}
 }
+
+.nav-button {
+	background-color: #ff3b45;
+	border-radius: 10px;
+	box-shadow: 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+.nav-button li a:hover {
+	background-color: #3d3b3b;
+	color: #fff;
+	box-shadow: 1px 1px rgba(0, 0, 0, 0.3);
+}
