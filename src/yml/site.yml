@@ -19,5 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+  - url: /tags
+    title: Tags
 email: youremail@xyz.com
 disqus_username: disqus_username
