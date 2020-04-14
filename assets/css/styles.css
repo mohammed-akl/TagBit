@@ -378,6 +378,10 @@ body.has-push-menu .progress-bar {
 	transition: all 0.3s ease
 }
 
+body.has-push-menu aside {
+	padding: 20px;
+}
+
 body.has-push-menu {
 	overflow-x: hidden;
 	position: relative;
@@ -385,7 +389,7 @@ body.has-push-menu {
 }
 
 body.has-push-menu.push-menu-to-right {
-	left: 15rem
+	left: 20rem
 }
 
 body.has-push-menu.push-menu-to-right .progress-bar {
@@ -393,7 +397,7 @@ body.has-push-menu.push-menu-to-right .progress-bar {
 }
 
 body.has-push-menu.push-menu-to-right .bar-header {
-	left: 15rem
+	left: 20rem;
 }
 
 aside.sidebar {
@@ -408,12 +412,13 @@ aside.sidebar {
 
 @media (min-width: 37.5rem) {
 	aside.sidebar {
-		padding: .625rem 0 0
+		padding: 20px;
 	}
 }
 
 aside.sidebar.open {
-	left: 0
+	left: 0;
+	width: 20rem;
 }
 
 aside.sidebar h2 {
@@ -463,6 +468,13 @@ aside.sidebar nav ul li a {
 aside.sidebar nav ul li a:hover {
 	color: #fff;
 	background: #ff0a16
+}
+
+aside.sidebar nav ul li a:active {
+	color: #fff;
+	background: #ff0a16;
+	border-radius: 10px;
+	margin: 10px;
 }
 
 .hero {
