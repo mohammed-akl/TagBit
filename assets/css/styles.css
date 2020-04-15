@@ -2087,8 +2087,6 @@ body.light:not(.main-page) .bar-header .version {
 .pagination.pagination-home a.previous {
 	width: 2.5rem;
 	height: 2.5rem;
-	border: 3px solid #fff;
-	border-radius: 10px;
 }
 
 .pagination.pagination-home a.next svg,
