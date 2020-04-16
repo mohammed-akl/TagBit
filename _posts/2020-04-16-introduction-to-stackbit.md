@@ -2,6 +2,8 @@
 date: 2020-04-16T03:46:30.000Z
 layout: post
 title: Introduction to Stackbit
+subtitle: Introducing Stackbit, a static site/blog deploying platform integrated
+  with GitHub, Netlify and a CMS.
 description: "Stackbit is a realtime static site editor as well as its deploys
   static site/blogs integrated with github,netlify and static CMS providers. "
 image: /assets/img/uploads/stbt-min.png
