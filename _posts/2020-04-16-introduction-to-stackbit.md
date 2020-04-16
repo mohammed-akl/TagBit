@@ -25,3 +25,5 @@ From now it provides **3 static site generators**. They are
 1. **[Jekyll](https://jekyllrb.com/)**
 2. **[Hugo](https://gohugo.io/)**
 3. **[Gatsby](https://www.gatsbyjs.org/)**
+
+![Stackbit Static Site Generators](/assets/img/uploads/skbt2.png "Stackbit Static Site Generators")
