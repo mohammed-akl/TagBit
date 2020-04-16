@@ -34,6 +34,12 @@ Stackbit supports **5 CMS** as well as there is a option to deploy sites/blogs w
 2. **[Netlify CMS](https://www.netlifycms.org/)**
 3. **[Contentful](<https://www.contentful.com >)**
 4. **[Dato CMS](https://datocms.com)**
-5. [Sanity](https://sanity.io)
+5. **[Sanity](https://sanity.io)**
 
 ![Stackbit CMS](/assets/img/uploads/skbt3-min.png "Stackbit CMS")
+
+You can deploy site/blog using any one from each section. Complete steps for deploying a site/blog using Stackbit will be added soon. Also features, pros and cons of each CMS, Static site genrators will be included.
+
+Stackbit developed realtime site editor (Edit your website frontend without entering CMS) . It is under Beta stage.
+
+![Stackbit Realtime Editor](/assets/img/uploads/skbt4-min.png "Stackbit Realtime Editor")
