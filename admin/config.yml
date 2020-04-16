@@ -10,7 +10,7 @@ collections:
     create: true
     editor:
       preview: false
-    slug: "{{slug}}"
+    slug: ""
     preview_path: "category/{{slug}}"
     extension: "md"
     fields:
