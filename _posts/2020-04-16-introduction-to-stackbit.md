@@ -38,8 +38,8 @@ Stackbit supports **5 CMS** as well as there is a option to deploy sites/blogs w
 
 ![Stackbit CMS](/assets/img/uploads/skbt3-min.png "Stackbit CMS")
 
-You can deploy site/blog using any one from each section. Complete steps for deploying a site/blog using Stackbit will be added soon. Also features, pros and cons of each CMS, Static site genrators will be included.
+You can deploy **site/blog** using any one from each section. **Complete steps for deploying a site/blog using Stackbit will be added soon. Also features, pros and cons of each CMS, Static site genrators will be included.**
 
-Stackbit developed realtime site editor (Edit your website frontend without entering CMS) . It is under Beta stage.
+**Stackbit developed realtime site editor (Edit your website frontend without entering CMS) . It is under Beta stage.**
 
 ![Stackbit Realtime Editor](/assets/img/uploads/skbt4-min.png "Stackbit Realtime Editor")
