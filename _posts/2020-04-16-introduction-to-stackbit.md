@@ -16,8 +16,12 @@ tags:
 author: muhammedashfar
 paginate: false
 ---
-Stackbit allow users to deploy static landing pages as well as static blogs with CMS within minutes. It works over 10 themes and allows custom theme build with stackbit.yaml. from now it provides 3 static site generators. They are
+**[Stackbit](https://stackbit.com)** allow users to deploy static landing pages as well as static blogs with CMS within minutes. It works over **10 themes** and allows custom theme build with **stackbit.yaml**. 
 
-1. Jekyll
-2. Hugo
-3. Gatsby
+![Stackbit Themes](/assets/img/uploads/skbt1.png "Stackbit Themes")
+
+From now it provides **3 static site generators**. They are
+
+1. **[Jekyll](https://jekyllrb.com/)**
+2. **[Hugo](https://gohugo.io/)**
+3. **[Gatsby](https://www.gatsbyjs.org/)**
