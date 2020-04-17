@@ -9,6 +9,7 @@ tags:
   - theme
   - netlify
 email: youremail@xyz.com
+disqus_username: disqus_username
 show_hero: true
 menu:
   - title: Home
@@ -97,9 +98,9 @@ exclude: [
   'gulpfile.js',
   'README.md'
 ]
-#Disqus
+
+#disqus
 disqus:
   shortname: disqus_shortname
-  
 # Theme
 version: Beta
