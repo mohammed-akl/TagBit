@@ -237,8 +237,8 @@ collections:
             widget: "string"
             hint: "Leave it blank if you don't want a contact page"
             required: false
-          - label: "Disqus Username"
-            name: "disqus_username"
+          - label: "Disqus Shortname"
+            name: "disqus_shortname"
             widget: "string"
             hint: "Leave it blank if you don't want comments in posts"
             required: false
@@ -510,5 +510,3 @@ collections:
             name: "sent_message_url"
             hint: "URL where the user will be redirected for after submit the contact form. Ex: /contact/message-sent/"
             required: false
-
-
