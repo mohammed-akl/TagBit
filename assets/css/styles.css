@@ -2526,7 +2526,8 @@ pre span {
 	width: 9.375rem;
 	border-radius: 50%;
 	display: block;
-	margin: auto
+	margin: auto;
+	border: 7px solid #e3e3e3;
 }
 
 @media (min-width: 37.5rem) {
