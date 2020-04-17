@@ -79,9 +79,7 @@
         {% include subscription.html %}
         {% include share.html %}
         {% include author.html %}
-        {% if site.disqus_username %}
-           {% include comments.html %}
-        {% endif %}
+        {% include comments.html %}
         {% include footer.html %}
 
         {% assign author = site.authors | where: "name", post.author | first %}
