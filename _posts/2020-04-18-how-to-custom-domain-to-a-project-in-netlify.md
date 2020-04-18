@@ -1,7 +1,7 @@
 ---
 date: 2020-04-17T15:48:32.000Z
 layout: post
-title: How to custom domain to a project in netlify?
+title: How to add custom domain to a project in netlify?
 subtitle: "This session deals with how to add custom domain on netlify project
   deployed manually of by stackbit. "
 description: Here are some steps to add custom domain to Netlify project
