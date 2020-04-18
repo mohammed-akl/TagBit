@@ -64,3 +64,7 @@ exclude: [
 
 # Theme
 version: v3.1.0
+
+# Disqus commenting
+disqus:
+  shortname: tagbit
