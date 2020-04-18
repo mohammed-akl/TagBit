@@ -27,6 +27,8 @@ Let's see the steps...
 
 \--page-break--
 
+# Adding Domain to Netlify.
+
 * ## First, Sign In to Netlify. In the Netlify dashboard tap "Domains".
 
   ![adding domain](/assets/img/uploads/adding_domain_1.png "adding domain")
@@ -55,3 +57,21 @@ Let's see the steps...
   Tap "**Done**".
 
 \--page-break--
+
+# Adding Domain to your Project.
+
+* ## Go to "Netlify Dashboard". From there choose the project that you wanted to add custom domain.
+
+  From the list of Netlify projects, select the project you wanted to add custom domain.
+
+  (**\*here I selected my project which is deployed by Stackbit in Stackbit tutorial section.**)
+
+  ![Choosing project](/assets/img/uploads/adding_domain_6.png "Choosing project")
+
+  After taping on your project, you will be redirect to project details. From there you can find "**Domain Setting**".
+
+  ![Domain Setting](/assets/img/uploads/adding_domain_7.png "Domain Setting")
+
+  In "**Domain Settings**" you can find "**Add Custom Domain**".
+
+  ![Adding Domain](/assets/img/uploads/adding_domain_8.png "Adding Domain")
