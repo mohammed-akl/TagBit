@@ -75,3 +75,21 @@ Let's see the steps...
   In "**Domain Settings**" you can find "**Add Custom Domain**".
 
   ![Adding Domain](/assets/img/uploads/adding_domain_8.png "Adding Domain")
+* ## Now, Add the domain that previously added to Netlify.
+
+  Add the domain that previously connected to Netlify by changing nameservers.
+
+  ![Adding domain](/assets/img/uploads/adding_domain_9.png "Adding domain")
+
+  Proceed to "**Add**".
+
+  ![Adding Domain](/assets/img/uploads/adding_domain_10.png "Adding Domain")
+
+  Proceed to "**Yes, Add Domain**".
+* ## Hurrah! Custom domain is added to your Netlify project.
+
+  ![Domain Added](/assets/img/uploads/adding_domain_11.png "Domain Added")
+
+  Netlify is providing free SSL issued by **Let's Encrypt**. After domain is served by Netlify DNS certificate will be issued automatically. In case any error, in the HTTPS section tap "**Forcce HTTPS**".
+
+  ![SSL](/assets/img/uploads/adding_domain_12.png "SSL")
