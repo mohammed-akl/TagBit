@@ -1,12 +1,12 @@
 ---
-date: 2020-04-18 11:29:38
+date: 2020-04-18T11:29:38.000Z
 layout: post
 title: How to deploy a blog using Stackbit?
 subtitle: Let's see some simple step to deploy a static blog with CMS using Stackbit.
 description: Here the simple steps to deploy a static blog with forestry CMS using Stackbit
 image: /assets/img/uploads/hdbus_postimage.jpg
 optimized_image: /assets/img/uploads/hdbus_postimage.jpg
-category: stackbit
+category: Stackbit
 tags:
   - Blog
   - Stackbit
