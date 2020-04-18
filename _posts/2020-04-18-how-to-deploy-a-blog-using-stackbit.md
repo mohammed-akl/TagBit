@@ -32,6 +32,8 @@ After all **Sign in to Stackbit. Let's Start!**
    ![Create New Project](/assets/img/uploads/create_blog_1.png "Create New Project")
 
    Then you will **redirect to theme selection page.** See Next Step...
+
+   \--page-break--
 2. ## Choose a "Theme" from the provided themes.
 
    Here I choose "**Azimuth**" as my theme you can choose any. After choosing your theme tap "**Continue to Site Generator ".**
