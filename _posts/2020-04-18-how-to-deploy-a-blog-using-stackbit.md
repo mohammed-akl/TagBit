@@ -61,4 +61,8 @@ After all **Sign in to Stackbit. Let's Start!**
    ![CMS selection](/assets/img/uploads/create_blog_4.png "CMS selection")
 
    \--page-break--
-5. ## Connect you Forestry and Github accounts with Stackbit to deploy.
+5. ## Connect your Forestry and Github accounts with Stackbit to deploy and Change the name of your website.
+
+   After cannecting and changing your website/blog name proceed to "**Create Project**".
+
+   ![Connecting accounts](/assets/img/uploads/create_blog_5.png "Connecting accounts")
