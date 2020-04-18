@@ -39,3 +39,14 @@ After all **Sign in to Stackbit. Let's Start!**
    Here I choose "**Azimuth**" as my theme you can choose any. After choosing your theme tap "**Continue to Site Generator ".**
 
    ![Theme Selection](/assets/img/uploads/create_blog_2.png "Theme Selection")
+
+   \--page-break--
+3. ## Next, Choose a Static Site Generator.
+
+   **I Recommend you to choose Jekyll**. Since we are concentrating on Jekyll more updates and help are available. If you are not willing to use Jekyll, **select a Static Generator.**
+
+   After selecting a theme tap "**Continue to CMS**" to select a CMS.
+
+   ![Static Generator](/assets/img/uploads/create_blog_3.png "Static Generator")
+
+   \--page-break--
