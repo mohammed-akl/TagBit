@@ -61,3 +61,4 @@ After all **Sign in to Stackbit. Let's Start!**
    ![CMS selection](/assets/img/uploads/create_blog_4.png "CMS selection")
 
    \--page-break--
+5. ## Connect you Forestry and Github accounts with Stackbit to deploy.
