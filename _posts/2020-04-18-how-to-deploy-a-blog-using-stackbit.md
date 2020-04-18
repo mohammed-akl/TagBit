@@ -50,3 +50,14 @@ After all **Sign in to Stackbit. Let's Start!**
    ![Static Generator](/assets/img/uploads/create_blog_3.png "Static Generator")
 
    \--page-break--
+4. ## Next, Choose a CMS (Content Management System).
+
+   Since this tutorial is pointed on deploying blog with Forestry CMS. We select **Forestry**.
+
+   ( We will soon upload the tutorial of all other CMS and Management.)
+
+   After selecting CMS proceed to "**Connect Accounts**".
+
+   ![CMS selection](/assets/img/uploads/create_blog_4.png "CMS selection")
+
+   \--page-break--
