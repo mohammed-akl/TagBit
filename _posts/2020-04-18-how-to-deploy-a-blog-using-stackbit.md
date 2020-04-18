@@ -78,4 +78,4 @@ After all **Sign in to Stackbit. Let's Start!**
 
    ![Deployed Project](/assets/img/uploads/create_blog_6_1.png "Deployed Project")
 
-   **Hurray! The Blog is deployed. See the demo [here](https://demo-blog.tagbit.tk).**
+   **Hurray! The Blog is deployed. See the demo [here](https://demo-blo-a6a1e.netlify.app/).**
