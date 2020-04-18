@@ -6,8 +6,8 @@ subtitle: "This session deals with how to add custom domain on netlify project
   deployed manually of by stackbit. "
 description: Here are some steps to add custom domain to Netlify project
   deployed either manually or by Stackbit.
-image: /assets/img/uploads/adding_domain.jpg
-optimized_image: /assets/img/uploads/adding_domain.jpg
+image: /assets/img/uploads/netlify_1_postimage.jpg
+optimized_image: /assets/img/uploads/netlify_1_postimage.jpg
 category: netlify
 tags:
   - custom domain
