@@ -32,3 +32,15 @@ Let's see the steps...
   ![adding domain](/assets/img/uploads/adding_domain_1.png "adding domain")
 
   you will be redirected to **domain adding page.**
+
+  \--page-break--
+* ## In the "Domain" page tap "Add or Register a Domain".
+
+  ![Add/Register Domain](/assets/img/uploads/adding_domain_2.png "Add/Register Domain")
+
+  It will redirect to a window to **add a domain to Netlify DNS**.
+* ## Enter your registered domain there and proceed to "Verify".
+
+  After verifying your domain tap on "**Yes, Add Domain**".
+
+  ![Adding Domain](/assets/img/uploads/adding_domain_3.png "Adding Domain")
