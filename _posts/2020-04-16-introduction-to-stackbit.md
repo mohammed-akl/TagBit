@@ -18,6 +18,8 @@ tags:
 author: muhammedashfar
 paginate: false
 ---
+![Stackbit Home](/assets/img/uploads/stbt-min.png "Stackbit Home")
+
 **[Stackbit](https://stackbit.com)** allow users to deploy static landing pages as well as static blogs with CMS within minutes.Now this platform is completly free for every one. It works over **10 themes** and allows custom theme build with **stackbit.yaml**. 
 
 ![Stackbit Themes](/assets/img/uploads/skbt1.png "Stackbit Themes")
