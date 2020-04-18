@@ -32,8 +32,6 @@ Let's see the steps...
   ![adding domain](/assets/img/uploads/adding_domain_1.png "adding domain")
 
   you will be redirected to **domain adding page.**
-
-  \--page-break--
 * ## In the "Domain" page tap "Add or Register a Domain".
 
   ![Add/Register Domain](/assets/img/uploads/adding_domain_2.png "Add/Register Domain")
@@ -44,3 +42,16 @@ Let's see the steps...
   After verifying your domain tap on "**Yes, Add Domain**".
 
   ![Adding Domain](/assets/img/uploads/adding_domain_3.png "Adding Domain")
+
+  After, you will redirect to add DNS Records of your domain. No need of adding any DNS records. Proceed to "Continue".
+
+  ![Continue](/assets/img/uploads/adding_domain_4.png "Continue")
+* ## Next, Add the Nameservers provided by Netlify to your domain.
+
+  This is the **important** step for adding domain to Netlify. You can **update the name servers of your domain from your domain registrar**. After updating the nameservers of your domain with Netlify nameservers, wait about **24 hours** for the changes to be effective. (**\*Time may vary**.)
+
+  ![Nameserver update](/assets/img/uploads/adding_domain_5.png "Nameserver update")
+
+  Tap "**Done**".
+
+\--page-break--
