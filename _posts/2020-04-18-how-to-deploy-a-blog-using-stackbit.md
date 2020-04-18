@@ -1,5 +1,5 @@
 ---
-date: 2020-04-18 07:41:13
+date: 2020-04-18 11:29:38
 layout: post
 title: How to deploy a blog using Stackbit?
 subtitle: Let's see some simple step to deploy a static blog with CMS using Stackbit.
@@ -78,5 +78,4 @@ After all **Sign in to Stackbit. Let's Start!**
 
    ![Deployed Project](/assets/img/uploads/create_blog_6_1.png "Deployed Project")
 
-   **Hurray! The Blog is deployed. See the demo [here](https://demo-blo-a6a1e.netlify.app/).**
-   **Thank You for Reading. See next post...**
+   **Hurray! The Blog is deployed. See the demo [here](https://demo-blo-a6a1e.netlify.app/).** **Thank**
