@@ -74,4 +74,8 @@ After all **Sign in to Stackbit. Let's Start!**
 
    ![Deploying Blog](/assets/img/uploads/create_blog_6.png "Deploying Blog")
 
-   After the deploy you can edit you site on Forestry by tapping on "**Edit in Forestry**" and view your site by tapping on "**view site**". Also you can get your ad
+   After the deploy you can edit you site on Forestry by tapping on "**Edit in Forestry**" and view your site by tapping on "**view site**". Also you can get your admin panel on `https://yourdoamin.com/admin` . (Don't know your blog doamin name. Click here.)
+
+   ![Deployed Project](/assets/img/uploads/create_blog_6_1.png "Deployed Project")
+
+   **Hurray! The Blog is deployed. See the demo [here](https://demo-blog.tagbit.tk).**
