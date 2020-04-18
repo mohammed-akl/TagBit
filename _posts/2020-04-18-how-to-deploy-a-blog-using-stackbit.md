@@ -66,3 +66,12 @@ After all **Sign in to Stackbit. Let's Start!**
    After cannecting and changing your website/blog name proceed to "**Create Project**".
 
    ![Connecting accounts](/assets/img/uploads/create_blog_5.png "Connecting accounts")
+
+   \--page-break--
+6. ## Finishing Up...
+
+   After tapping "Create Project" it takes some moment to deploy your blog. Wait till....
+
+   ![Deploying Blog](/assets/img/uploads/create_blog_6.png "Deploying Blog")
+
+   After the deploy you can edit you site on Forestry by tapping on "**Edit in Forestry**" and view your site by tapping on "**view site**". Also you can get your ad
