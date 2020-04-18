@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Stackbit
-slug: "{{slug}}"
+slug: Stackbit
 ---
