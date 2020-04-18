@@ -489,6 +489,7 @@ collections:
             name: "baseurl"
             widget: "string"
             hint: "The subpath of your site, e.g. /blog"
+            required: false
           - label: "URL"
             name: "url"
             widget: "string"
