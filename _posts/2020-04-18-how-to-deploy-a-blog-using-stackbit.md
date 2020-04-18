@@ -1,5 +1,5 @@
 ---
-date: 2020-04-07 07:29:38
+date: 2020-04-17 07:29:38
 layout: post
 title: How to deploy a blog using Stackbit?
 subtitle: Let's see some simple step to deploy a static blog with CMS using Stackbit.
