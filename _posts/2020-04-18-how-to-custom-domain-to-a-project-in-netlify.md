@@ -1,5 +1,5 @@
 ---
-date: 2020-04-17 15:48:32
+date: 2020-04-17T15:48:32.000Z
 layout: post
 title: How to custom domain to a project in netlify?
 subtitle: "This session deals with how to add custom domain on netlify project
@@ -27,4 +27,8 @@ Let's see the steps...
 
 \--page-break--
 
-1.
+* ## First, Sign In to Netlify. In the Netlify dashboard tap "Domains".
+
+  ![adding domain](/assets/img/uploads/adding_domain_1.png "adding domain")
+
+  you will be redirected to **domain adding page.**
