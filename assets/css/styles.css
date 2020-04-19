@@ -2994,7 +2994,7 @@ footer ul a:hover {
 }
 
 .nav-image {
-	background-image: url(assets/img/contributor.jpg);
+	background-image: url(.../assets/img/contributor.jpg);
 	border-radius: 10px;
 	width: 90%;
 }
