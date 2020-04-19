@@ -2992,3 +2992,9 @@ footer ul a:hover {
 	margin-top: 20px;
 	text-align: center;
 }
+
+.nav-image {
+	background-image: url(assets/img/contributor.jpg);
+	border-radius: 10px;
+	width: 90%;
+}
