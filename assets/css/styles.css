@@ -2993,8 +2993,13 @@ footer ul a:hover {
 	text-align: center;
 }
 
-.nav-image {
-	background-image: url(contributor.jpg);
+.nav-image img {
 	border-radius: 10px;
-	width: 90%;
+	width: 100%;
+}
+
+.footer-logo {
+	display: block;
+	color: #fff;
+	font-size: 3rem;
 }
