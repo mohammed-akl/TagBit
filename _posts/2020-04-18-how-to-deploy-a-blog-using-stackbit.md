@@ -4,8 +4,8 @@ layout: post
 title: How to deploy a blog using Stackbit?
 subtitle: Let's see some simple step to deploy a static blog with CMS using Stackbit.
 description: Here the simple steps to deploy a static blog with forestry CMS using Stackbit
-image: /assets/img/uploads/stackbit_2_postimage.jpg
-optimized_image: /assets/img/uploads/stackbit_2_postimage.jpg
+image: /assets/img/uploads/stackbit_pi_2.png
+optimized_image: /assets/img/uploads/stackbit_pi_2.png
 category: Stackbit
 tags:
   - Blog
