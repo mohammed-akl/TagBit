@@ -6,8 +6,8 @@ subtitle: Introducing Stackbit, a static site/blog deploying platform integrated
   with GitHub, Netlify and a CMS.
 description: "Stackbit is a realtime static site editor as well as its deploys
   static site/blogs integrated with github,netlify and static CMS providers. "
-image: /assets/img/uploads/is_post-image.jpg
-optimized_image: /assets/img/uploads/is_post-image.jpg
+image: /assets/img/uploads/stackbit_pi_1.png
+optimized_image: /assets/img/uploads/stackbit_pi_1.png
 category: stackbit
 tags:
   - blog
