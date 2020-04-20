@@ -3057,4 +3057,7 @@ aside.nav-button a:hover {
 	text-transform: none;
 	-webkit font smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	margin-right: 5px;
+	font-weight: 700;
+	color: #ff1414;
 }
