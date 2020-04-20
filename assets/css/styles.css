@@ -375,7 +375,7 @@ h4 {
 body.has-push-menu,
 body.has-push-menu aside,
 body.has-push-menu .progress-bar {
-	transition: all 0.3s ease
+	transition: all 0.1s ease
 }
 
 body.has-push-menu aside {
@@ -758,7 +758,7 @@ body {
 	left: 0;
 	width: 100%;
 	z-index: 10;
-	transition: top 0.5s, left 0.3s ease, background-color 0.5s, box-shadow 0.5s
+	transition: top 0.3s, left 0.1s ease, background-color 0.3s, box-shadow 0.3s
 }
 
 @media (min-width: 37.5rem) {
