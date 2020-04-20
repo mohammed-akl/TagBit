@@ -1,3 +1,3 @@
 $(function() {
-  $('aside a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('active');
+  $('navigation a[href^="/' + location.pathname.split("/")[1] + '"]').addClass('active');
 });
