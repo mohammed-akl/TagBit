@@ -2,6 +2,7 @@
   {% for item in site.menu %}
     {% if item.title and item.url %}
       <li>
+        <i class="tagbit-icons icon-whte icon-heart-2"></i>
         <a href="{{ site.url }}{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
       </li>
     {% endif %}
