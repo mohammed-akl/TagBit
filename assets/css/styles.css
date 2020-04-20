@@ -2991,7 +2991,7 @@ footer ul a:hover {
 	border-radius: 5px;
 	margin-top: 20px;
 	text-align: center;
-	padding: 5px 20px 5px 20px;
+	padding: 5px 27px 5px 27px;
 	text-decoration: none;
 	color: #fff;
 	font-size: .7rem;
@@ -3030,6 +3030,7 @@ footer ul a:hover {
 	box-shadow: 0px 2px 7px rgba(0,0,0,0.25);
 	margin-top:10px;
 	padding: 15px;
+	font-size: .9rem;
 }
 
 .footer-logo {
