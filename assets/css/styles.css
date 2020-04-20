@@ -2994,8 +2994,11 @@ footer ul a:hover {
 	padding: 5px 20px 5px 20px;
 	text-decoration: none;
 	color: #fff;
-	font-size: .8rem;
+	font-size: .7rem;
 	align-items: center;
+	width: 50%;
+	margin: 3px;
+	font-weight: 600;
 }
 
 .nav-image img {
