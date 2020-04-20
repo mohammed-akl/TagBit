@@ -3001,7 +3001,7 @@ footer ul a:hover {
 	font-weight: 600;
 }
 
-.nav-button a:hover {
+aside.nav-button a:hover {
 	border: 1px solid #fff;
 	border-radius: 5px;
 	text-align: center;
@@ -3045,5 +3045,6 @@ footer ul a:hover {
 }
 
 .nav-banner {
-	font-weight: 1000px;
+	font-weight: 800;
+	font-size: .9rem;
 }
