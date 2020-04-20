@@ -3048,3 +3048,13 @@ aside.nav-button a:hover {
 	font-weight: 800;
 	font-size: .9rem;
 }
+
+.tagbit-icons {
+	display: inline-block;
+	font: normal normal normal 1rem/1 'Nucleo';
+	vertical-align: middle;
+	speak: none;
+	text-transform: none;
+	-webkit font smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
