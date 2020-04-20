@@ -419,6 +419,9 @@ aside.sidebar {
 aside.sidebar.open {
 	left: 0;
 	width: 20rem;
+	background: #EB3349;
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
+	background: linear-gradient(to right, #F45C43, #EB3349);
 }
 
 aside.sidebar h2 {
