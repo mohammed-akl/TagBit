@@ -1,8 +1,14 @@
-jQuery(function($) {
- var path = window.location.href; // because the 'href' property of the DOM element is the absolute path
- $('ul a').each(function() {
-  if (this.href === path) {
-   $(this).addClass('active');
-  }
- });
-});
+function activateCurrentPage(menuItems){
+    var current = location.pathname;
+    if (current !== "/") {
+    menuItems.each(function(){
+        var $this = $(this);
+        if($this.attr('href') === current){
+            $this.addClass('active');
+            $this.attr('aria-current', 'page');
+        }
+    });
+    };
+}
+
+activateCurrentPage( $('#nav li a') ); 
