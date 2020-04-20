@@ -3044,6 +3044,10 @@ aside.nav-btn a:hover {
 	padding: 10px;
 }
 
+.btn-full {
+	width: 100%;
+}
+
 .nav-banner {
 	font-weight: 800;
 	font-size: 1rem;
