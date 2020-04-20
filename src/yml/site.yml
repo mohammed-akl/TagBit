@@ -14,12 +14,12 @@ menu:
   - title: Home
     url: /
   - title: About
-    url: /about
+    url: https://tagbit.tk/about
   - title: Contact
-    url: /contact
-  - url: /tags
+    url: https://tagbit.tk/contact
+  - url: https://tagbit.tk/tags
     title: Tags
   - title: Feed
-    url: /feed.xml
+    url: https://tagbit.tk/feed.xml
 email: tagbit.community@gmail.com
 disqus_username: tagbit
