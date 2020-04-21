@@ -420,8 +420,8 @@ aside.sidebar.open {
 	left: 0;
 	width: 20rem;
 	background: #c31432;
-	background: -webkit-linear-gradient(to top, #1c1d1e, #c93750);
-	background: linear-gradient(to top, #1c1d1e, #c93750);
+	background: -webkit-linear-gradient(to top, #1c1d1e, #F45C43);
+	background: linear-gradient(to top, #1c1d1e, #F45C43);
 }
 
 aside.sidebar h2 {
@@ -3078,7 +3078,7 @@ aside.nav-btn a:hover {
 }
 
 .nav-msg-border {
-	border: 2px solid #eb3349;
+	border: 2px solid #F45C43;
 }
 
 .footer-logo {
@@ -3129,5 +3129,5 @@ icon-whte {
 }
 
 .ftr {
-	display: inline-block;
+	display: inline-flex;
 }
