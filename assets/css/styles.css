@@ -696,7 +696,8 @@ aside.sidebar nav ul li a:hover {
 
 .search-form .search-list .entry-category {
 	text-transform: uppercase;
-	background-color: #ff0a16;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 	margin-right: .3125rem;
 	height: 1.25rem;
 	border-radius: .625rem;
@@ -733,7 +734,8 @@ aside.sidebar nav ul li a:hover {
 	height: 1.625rem;
 	padding: .3125rem;
 	fill: #fff;
-	background-color: #ff0a16;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 	border-radius: 13px;
 	margin: .4375rem;
 	cursor: pointer;
