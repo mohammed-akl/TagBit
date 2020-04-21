@@ -2649,6 +2649,7 @@ pre span {
 	background: -webkit-linear-gradient(to right, #414345, #232526);
 	background: linear-gradient(to right, #414345, #232526);
 	padding: 10px;
+	margin-top: 15px;
 }
 .staff img {
 	width: 9.375rem;
