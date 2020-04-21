@@ -2116,6 +2116,7 @@ body.light:not(.main-page) .bar-header .version {
 	height: 2.5rem;
 	background: linear-gradient(to right, #F45C43, #EB3349);
 	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
+	border-radius: 10px;
 }
 
 .pagination.pagination-home a.next svg,
