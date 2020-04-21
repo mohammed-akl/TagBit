@@ -3008,6 +3008,7 @@ footer ul a:hover {
 	border-radius: 10px;
 	background: linear-gradient(to right, #F45C43, #EB3349);
 	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
+	padding: 15px;
 }
 
 .footer-credits {
@@ -3149,7 +3150,8 @@ icon-whte {
 }
 .cpy-btn {
 	padding: 10px;
-	display: block;
+	display: inline-flex;
+	width: 100%;
 }
 
 .cpy-btn-border {
