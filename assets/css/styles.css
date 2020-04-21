@@ -2716,7 +2716,8 @@ pre span {
 	width: 1.875rem;
 	height: 1.875rem;
 	fill: #fff;
-	background-color: #141414;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 	border-radius: 50%;
 	border: 2px solid #fff;
 	padding: .3125rem;
