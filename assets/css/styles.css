@@ -3090,6 +3090,8 @@ aside.nav-btn a:hover {
 	display: block;
 	color: #fff;
 	font-size: 3rem;
+	padding: 10px;
+	margin: 0px;
 }
 
 .nav-btn {
