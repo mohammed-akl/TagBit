@@ -2695,10 +2695,11 @@ pre span {
 	transform: translate(-50%, -50%);
 	width: calc(100% - 2.5rem);
 	max-width: 50rem;
-	background-color: #fff;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 	border-radius: .625rem;
 	padding: .3125rem 0;
-	box-shadow: 7px 7px rgba(31, 31, 31, 0.3);
+	box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.15);
 	animation: 0.3s fadeIn 0.5s ease both
 }
 
@@ -2724,7 +2725,6 @@ pre span {
 
 .modal .window .header {
 	text-align: center;
-	border-bottom: 1px solid #f2f2f2;
 	padding: .9375rem
 }
 
@@ -2785,7 +2785,9 @@ pre span {
 	max-width: 100%;
 	height: auto;
 	transition: all 0.2s ease-in-out;
-	position: relative
+	position: relative;
+	border-radius: 10px;
+	box-shadow: 5px 5px rgba(222, 134, 134, 0.3);
 }
 
 .modal .window .content ul li a {
