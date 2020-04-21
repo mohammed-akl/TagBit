@@ -10,12 +10,20 @@ permalink: /authors/
 <div class="staff">
   {% for author in site.authors %}
     <div class="item">
-      <h2 class="name">
-        <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
-      </h2>
-      {% if author.position %}
-        <h3 class="position">{{ author.position }}</h3>
-      {% endif %}
+      <div class="">
+        {% if page.photo %}
+          <img class="img-rounded" src="{{ page.photo }}" alt="{{ author.display_name }}">
+        {% else %}
+      </div>
+      <div class="">
+        <h2 class="name">
+          <a href="{{ site.baseurl }}{{ author.url }}">{{ author.display_name }}</a>
+        </h2>
+        {% if author.position %}
+          <h3 class="position">{{ author.position }}</h3>
+        {% endif %}
+      </div>
+
     </div>
   {% endfor %}
 </div>
