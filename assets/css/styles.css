@@ -2046,9 +2046,10 @@ body.light:not(.main-page) .bar-header .version {
 
 .post-content .tag-title span {
 	padding: .1875rem .625rem;
-	background-color: #ff0a16;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 	border-radius: .3125rem;
-	color: #fff
+	color: #fff;
 }
 
 @media (min-width: 37.5rem) {
