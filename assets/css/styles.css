@@ -2907,7 +2907,8 @@ footer p {
 }
 
 footer span {
-	font-weight: 700
+	font-weight: 700;
+	color: #f45c43;
 }
 
 footer svg {
@@ -2935,7 +2936,7 @@ footer svg.love {
 
 footer a {
 	display: inline-block;
-	fill: #808080;
+	fill: #f45c43;
 	transition: all 0.3s ease;
 	text-decoration: none;
 	color: #808080
