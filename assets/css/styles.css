@@ -3145,3 +3145,7 @@ icon-whte {
 		margin: 0px auto;
 	}
 }
+.cpy-btn {
+	padding: 10px;
+	display: block;
+}
