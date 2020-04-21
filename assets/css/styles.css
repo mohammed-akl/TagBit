@@ -3005,6 +3005,9 @@ footer ul a:hover {
 
 .footer-cpt-1 {
 	text-align: center;
+	border-radius: 10px;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 }
 
 .footer-credits {
