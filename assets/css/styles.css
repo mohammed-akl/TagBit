@@ -3149,3 +3149,7 @@ icon-whte {
 	padding: 10px;
 	display: block;
 }
+
+.cpy-btn-border {
+	border: 2px solid #fff;
+}
