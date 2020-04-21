@@ -9,9 +9,7 @@ optimized_image: /assets/img/uploads/stackbit_pi_2.png
 category: Stackbit
 tags:
   - Blog
-  - Stackbit
-  - With CMS
-  - Simple
+  - CMS
   - Static
 author: muhammedashfar
 paginate: true
