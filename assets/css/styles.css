@@ -3159,3 +3159,8 @@ icon-whte {
 .cpy-btn-border {
 	border: 2px solid #fff;
 }
+
+.cpy-text {
+	color:#fff;
+	font-weight: 600;
+}
