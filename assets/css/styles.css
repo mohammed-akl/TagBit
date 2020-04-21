@@ -3100,3 +3100,7 @@ icon-whte {
 .auth-image {
 	display: inline-block;
 }
+
+.auth {
+	display: inline-block;
+}
