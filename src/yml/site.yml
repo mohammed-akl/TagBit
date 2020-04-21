@@ -13,15 +13,15 @@ paginate: 11
 menu:
   - title: Home
     url: /
+  - url: /tags
+    title: Tags
+  - title: Authors
+    url: /authors/
   - title: About
     url: /about
   - title: Contact
     url: /contact
-  - url: /tags
-    title: Tags
   - title: Feed
     url: /feed.xml
-  - title: Authors
-    url: /authors/
 email: tagbit.community@gmail.com
 disqus_username: tagbit
