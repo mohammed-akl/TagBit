@@ -3133,3 +3133,12 @@ icon-whte {
 .ftr {
 	display: inline-flex;
 }
+
+@media (max-width: 776px) {
+	.ftr {
+		display:block;
+	}
+	.footer-block {
+		margin: 0px auto;
+	}
+}
