@@ -2104,6 +2104,8 @@ body.light:not(.main-page) .bar-header .version {
 .pagination.pagination-home a.previous {
 	width: 2.5rem;
 	height: 2.5rem;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 }
 
 .pagination.pagination-home a.next svg,
@@ -2117,7 +2119,7 @@ body.light:not(.main-page) .bar-header .version {
 
 .pagination.pagination-home a.next:hover>svg,
 .pagination.pagination-home a.previous:hover>svg {
-	fill: #ff0a16
+	fill: #000;
 }
 
 .pagination.pagination-home a.previous svg {
