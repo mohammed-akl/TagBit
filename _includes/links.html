@@ -1,7 +1,7 @@
 <ul id="nav">
   {% for item in site.menu %}
     {% if item.title and item.url %}
-      <li {% if item.title == page.title %} class="active"{% endif %}>
+      <li {% if item.title == page.title %} class="on-active"{% endif %}>
         <a href="{{ item.url }}">{{ item.title }}</a>
       </li>
     {% endif %}

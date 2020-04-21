@@ -476,7 +476,7 @@ aside.sidebar nav ul li a:hover {
 	border-radius: 10px;
 }
 
-.active {
+.on-active {
 	color: #fff;
 	background: #FF512F;
 	background: -webkit-linear-gradient(to right, #DD2476, #FF512F);
