@@ -3096,3 +3096,7 @@ aside.nav-btn a:hover {
 icon-whte {
 	color:#fff;
 }
+
+.auth-image {
+	display: inline-block;
+}
