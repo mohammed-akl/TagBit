@@ -1907,10 +1907,11 @@ body.light:not(.main-page) .bar-header .version {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
-	background-color: #000;
+	background-color: #00000059;
 	padding: .3125rem;
 	max-width: 35%;
-	text-decoration: none
+	text-decoration: none;
+	border-radius: 10px;
 }
 
 @media (min-width: 37.5rem) {
@@ -1935,7 +1936,8 @@ body.light:not(.main-page) .bar-header .version {
 	display: block;
 	width: 100%;
 	max-width: 12.5rem;
-	transition: all 0.3s
+	transition: all 0.3s;
+	border-radius: 10px;
 }
 
 .recommendation .post-preview .title {
