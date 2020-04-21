@@ -2629,6 +2629,14 @@ pre span {
 	border-bottom: 1px solid #f2f2f2
 }
 
+.item {
+	border-radius: 10px;
+	border: transparent;
+	background: #232526;
+	background: -webkit-linear-gradient(to right, #414345, #232526);
+	background: linear-gradient(to right, #414345, #232526);
+	padding: 10px;
+}
 .staff img {
 	width: 9.375rem;
 	margin: 0 1.25rem 1.25rem
