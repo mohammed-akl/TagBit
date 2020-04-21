@@ -21,5 +21,7 @@ menu:
     title: Tags
   - title: Feed
     url: /feed.xml
+  - title: Authors
+    url: /authors/
 email: tagbit.community@gmail.com
 disqus_username: tagbit
