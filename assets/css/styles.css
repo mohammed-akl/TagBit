@@ -1829,9 +1829,12 @@ body.light:not(.main-page) .bar-header .version {
 	width: 100%;
 	padding: .625rem;
 	transition: bottom 0.5s;
-	background-color: rgba(0, 0, 0, 0.85);
+	background: -webkit-linear-gradient(to right, #DD2476, #FF512F);
+	background: linear-gradient(to right, #DD2476, #FF512F);
 	display: flex;
-	justify-content: space-between
+	justify-content: space-between;
+	box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.69);
+	border-radius: 20px 20px 0px 0px;
 }
 
 @media (min-width: 37.5rem) {
