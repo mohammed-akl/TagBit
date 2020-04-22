@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/img_20200226_183035863_hdr-01.jpeg
+photo: ""
 name: muhammedashfar
 display_name: Muhammed Ashfar
 position: Founder & Chief Editor
