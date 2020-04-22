@@ -13,8 +13,6 @@ paginate: 11
 menu:
   - title: Home
     url: /
-  - url: /tags
-    title: Tags
   - title: Authors
     url: /authors/
   - title: About
