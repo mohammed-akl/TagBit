@@ -21,7 +21,5 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
 email: tagbit.community@gmail.com
 disqus_username: tagbit
