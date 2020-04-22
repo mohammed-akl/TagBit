@@ -11,20 +11,20 @@
     </div>
   </div>
   <div class="footer-block">
-    <p><font class="footer-heading">Menus</font></p>
+    <p><font class="footer-heading gradient-logo-text">Menus</font></p>
 
     {% include footer-links.html %}
 
   </div>
   <div class="footer-block">
-    <p><font class="footer-heading">About Us</font></p>
+    <p><font class="footer-heading gradient-logo-text">About Us</font></p>
     <p>
       <span>tagbit</span> is blogging website maintained and designed by tagbit team. We are mainly focusing on designing and developement. This blogging
       is for to present the development tools and ideas in a much simpler and easier way.
     </p>
   </div>
   <div class="footer-block">
-      <p><font class="footer-heading">Follow Us</font></p>
+      <p><font class="footer-heading gradient-logo-text">Follow Us</font></p>
     <p>The pillers of every initiative is peoples. When people spend their trust to any they become the best. Like that<span>Follows us</span> these platforms and <span>Support Us!</span></p>
     <p>
       {% if site.github_username %}
@@ -111,7 +111,19 @@
 
 <!-- Include the script that allows Netlify CMS login -->
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<script src="//code.tidio.co/xk5k1lcxlr9mrmre44hcqqpw43n61rf8.js" async></script>
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5ea03bc035bcbb0c9ab39921/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
 
 <!-- Include the website scripts -->
 <script src="{{ '/assets/js/scripts.min.js' | prepend: site.baseurl }}"></script>
