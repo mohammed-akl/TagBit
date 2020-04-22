@@ -3164,3 +3164,13 @@ icon-whte {
 	color:#fff;
 	font-weight: 600;
 }
+
+.footer-lg {
+	text-align: center;
+}
+
+.footer-lg-img {
+	height:100px;
+	width: 100px;
+	display: center;
+}
