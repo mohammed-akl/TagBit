@@ -3069,8 +3069,8 @@ aside.nav-btn a:hover {
 .nav-msg {
 	color: #fff;
 	background: #232526;
-	background: -webkit-linear-gradient(to right, #414345, #232526);
-	background: linear-gradient(to right, #414345, #232526);
+	background: -webkit-linear-gradient(to right, #0f1010, #232526);
+	background: linear-gradient(to right, #0f1010, #232526);
 	border-radius: 10px;
 	width: 100%;
 	box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.69);
