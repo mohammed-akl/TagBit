@@ -19,19 +19,19 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
  <h1 class="wht">Services</h1>
  <div class="about-row">
    <div class="service-box">
-      <img class="icon-ser" src="{{site.baseurl}}/assets/icons/icon-1.png" alt="service 1"/>
+      <img class="icons-ser" src="{{site.baseurl}}/assets/icons/icon-1.png" alt="service 1"/>
       <h3 class="gradient-logo-text">Service 1</h3>
    </div>
      <div class="service-box">
-        <img class="icon-ser" src="{{site.baseurl}}/assets/icons/icon-2.png" alt="service 1"/>
+        <img class="icons-ser" src="{{site.baseurl}}/assets/icons/icon-2.png" alt="service 1"/>
         <h3 class="gradient-logo-text">Service 1</h3>
      </div>
-       <div class="icon-ser" class="service-box">
-          <img src="{{site.baseurl}}/assets/icons/icon-3.png" alt="service 1"/>
+       <div class="service-box">
+          <img class="icons-ser" src="{{site.baseurl}}/assets/icons/icon-3.png" alt="service 1"/>
           <h3 class="gradient-logo-text">Service 1</h3>
        </div>
-         <div class="icon-ser" class="service-box">
-            <img src="{{site.baseurl}}/assets/icons/icon-4.png" alt="service 1"/>
+         <div class="service-box">
+            <img class="icons-ser" src="{{site.baseurl}}/assets/icons/icon-4.png" alt="service 1"/>
             <h3 class="gradient-logo-text">Service 1</h3>
          </div>
          </div>
