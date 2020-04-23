@@ -8,7 +8,7 @@ description: Some description.
 ---
 <img src="/assets/img/logo-tagbit.png" alt="Tagbit" width="200">
 
-<h1 class="gradient-text">About</span>
+<h1 class="gradient-text">About</h1>
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
