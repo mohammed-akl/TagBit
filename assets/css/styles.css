@@ -3214,6 +3214,7 @@ icon-whte {
 	border-radius: 10px;
 	display: inline-block;
 	margin: 20px;
+	box-shadow: 0px 2px 7px rgba(154, 154, 154, 0.69);
 }
 
 .shadow {
