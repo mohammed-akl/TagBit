@@ -1158,7 +1158,6 @@ body.light:not(.main-page) .bar-header .version {
 
 .box-item .box-body .cover .read-icon {
 	opacity: 0;
-	background-color: rgba(0, 0, 0, 0.7);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -3214,4 +3213,8 @@ icon-whte {
 	padding: 30px;
 	border-radius: 10px;
 	display: block;
+}
+
+.no-shadow {
+	box-shadow: none;
 }
