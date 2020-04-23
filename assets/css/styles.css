@@ -3194,22 +3194,24 @@ icon-whte {
 
 .service-row {
 	width: 100%;
-	padding: 20px;
+	padding: 30px;
 	text-align: center;
+	background: linear-gradient(to right, #F45C43, #EB3349);
+	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
+	border-radius: 10px;
 }
 
 .about-row {
 	width: 100%;
 	display: inline-block;
+	padding: 50px;
 }
 
 .service-box {
 	background:#fff;
 	width: 20%;
 	text-align: center;
-}
-
-.author-photo {
-	width: 50px;
-	height: 50px;
+	padding: 30px;
+	border-radius: 10px;
+	display: block;
 }

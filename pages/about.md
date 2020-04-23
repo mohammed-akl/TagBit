@@ -22,4 +22,19 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       <img src="{{site.baseurl}}/assets/icons/icon-1.png" alt="service 1"/>
       <span class="service-text">Service 1</span>
    </div>
+   <div class="about-row">
+     <div class="service-box">
+        <img src="{{site.baseurl}}/assets/icons/icon-2.png" alt="service 1"/>
+        <span class="service-text">Service 1</span>
+     </div>
+     <div class="about-row">
+       <div class="service-box">
+          <img src="{{site.baseurl}}/assets/icons/icon-3.png" alt="service 1"/>
+          <span class="service-text">Service 1</span>
+       </div>
+       <div class="about-row">
+         <div class="service-box">
+            <img src="{{site.baseurl}}/assets/icons/icon-4.png" alt="service 1"/>
+            <span class="service-text">Service 1</span>
+         </div>
 </div>
