@@ -1076,7 +1076,6 @@ body.light:not(.main-page) .bar-header .version {
 	height: auto;
 	margin: 0 auto;
 	transition: all 0.2s ease-in-out;
-	box-shadow: 7px 7px rgba(114, 114, 114, 0.3);
 }
 
 .box-item .box-body time {
@@ -3198,6 +3197,7 @@ icon-whte {
 	background: linear-gradient(to right, #F45C43, #EB3349);
 	background: -webkit-linear-gradient(to right, #F45C43, #EB3349);
 	border-radius: 10px;
+	margin-top: 30px;
 }
 
 .about-row {
@@ -3216,8 +3216,8 @@ icon-whte {
 	margin: 20px;
 }
 
-.no-shadow {
-	box-shadow: none;
+.shadow {
+	box-shadow: 7px 7px rgba(114, 114, 114, 0.3);
 }
 
 .icons-ser {
