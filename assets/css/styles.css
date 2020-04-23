@@ -3212,9 +3212,18 @@ icon-whte {
 	text-align: center;
 	padding: 30px;
 	border-radius: 10px;
-	display: block;
+	display: inline-block;
+	margin: 20px;
 }
 
 .no-shadow {
 	box-shadow: none;
 }
+
+.icons-ser {
+	width: 120px;
+	padding: 10px;
+}
+ .wht {
+	 color: #fff;
+ }
