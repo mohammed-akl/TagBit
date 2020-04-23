@@ -3227,3 +3227,12 @@ icon-whte {
  .wht {
 	 color: #fff;
  }
+
+@media (max-width: 776px) {
+	.service-box {
+		width: 100%;
+		display: block;
+		margin: 0px auto;
+		margin-top: 25px;
+	}
+}
