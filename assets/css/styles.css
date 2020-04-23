@@ -3203,14 +3203,14 @@ icon-whte {
 .about-row {
 	width: 100%;
 	display: inline-block;
-	padding: 50px;
+	padding: 10px;
 }
 
 .service-box {
 	background:#fff;
 	width: 20%;
 	text-align: center;
-	padding: 30px;
+	padding: 15px;
 	border-radius: 10px;
 	display: inline-block;
 	margin: 20px;
@@ -3228,9 +3228,18 @@ icon-whte {
 	 color: #fff;
  }
 
-@media (max-width: 776px) {
+@media (max-width: 542px) {
 	.service-box {
 		width: 100%;
+		display: block;
+		margin: 0px auto;
+		margin-top: 25px;
+	}
+}
+
+@media (max-width: 1000px) {
+	.service-box {
+		width: 40%;
 		display: block;
 		margin: 0px auto;
 		margin-top: 25px;
