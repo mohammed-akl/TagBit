@@ -3193,3 +3193,20 @@ icon-whte {
     -moz-text-fill-color: transparent;
 		font-size: 2rem;
 }
+
+.service-row {
+	width: 100%;
+	padding: 5px;
+	text-align: center;
+}
+
+.about-row {
+	width: 100%;
+	display: inline-block;
+}
+
+.service-box {
+	background:#fff;
+	width: 20%;
+	text-align: center;
+}
