@@ -21,5 +21,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
    <div class="service-box">
       <img src="{{site.baseurl}}/assets/icons/icon-1.png" alt="service 1"/>
       <span class="service-text">Service 1</span>
-   </div
+   </div>
 </div>
