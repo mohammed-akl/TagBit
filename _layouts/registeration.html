@@ -19,7 +19,7 @@ layout: page
     <form action="{{site.baseurl}}/contact/message-sent/" name="Contribotor Form" netlify>
       <fieldset>
         <div class="file">
-          <img class="reg-img" id="blah" src="https://tagbit.tk/assets/img/logo-tagbit.png" alt="your image" />
+          <img class="reg-img" id="blah" src="{{site.baseurl}}/assets/img/regdp.png" alt="your image" width="180px" height="180px" />
         </div>
         <div class="file">
         <label id="add-computer-button" for="fileupload">Upload
@@ -41,9 +41,6 @@ layout: page
         <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Your message' }}" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
-        <input type="file" class="custom-file-input" name="Profile" accept="image/*" placeholder="Upload a Profile" v-validate="'required|profile'"
-               :class="{ 'has-error': errors.has('profile') }">
-        <span v-if="errors.has('profile')" v-cloak>${ errors.first('profile') }</span>
 
         <button type="submit">{{ site.translations.contact.submit_btn | default:  "Register Now" }}</button>
       </fieldset>
