@@ -3274,7 +3274,7 @@ label {
 cursor: pointer;
 margin: 0px auto;
 display: inline-block;
-padding: 5px 0px 5px 0px;
+padding: 7px 0px 7px 0px;
 transition: all 1s ease;
 color: #fff;
 text-transform: capitalize;
@@ -3286,6 +3286,5 @@ background: linear-gradient(to right, #F45C43, #EB3349);
 text-align: center;
 font-weight: 600;
 width: 180px;
-height: 20px;
-font-family: ubuntu;
+height: 30px;
 }
