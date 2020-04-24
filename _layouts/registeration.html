@@ -16,7 +16,7 @@ layout: page
   <h2 class="gradient-text">{{ site.translations.contact.title | default: "Register for Tagbit Contributor Programme" }}</h2>
 
   <div id="form" class="contact-form">
-    <form action="{{site.baseurl}}/contact/message-sent/" name="contact" netlify>
+    <form action="{{site.baseurl}}/contact/message-sent/" name="Contribotor Form" netlify>
       <fieldset>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />

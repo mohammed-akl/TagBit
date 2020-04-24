@@ -2457,8 +2457,14 @@ pre span {
 	box-shadow: 5px 5px rgba(114, 114, 114, 0.3);
 }
 
+.contact-form input[type="text"] {
+	border-radius: 10px;
+	border: 2px solid #000;
+}
+
 .contact-form input[type="text"].has-error,
 .contact-form input[type="email"].has-error,
+.contact-form input[type="file"].has-error,
 .contact-form textarea.has-error {
 	border-color: #f04242
 }
