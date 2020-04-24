@@ -23,7 +23,7 @@ layout: page
         </div>
         <div class="file">
         <label id="add-computer-button" for="fileupload">Upload
-           <input id="fileupload" class="button" type='file' onchange="readURL(this);" style="visibility: hidden;"/>
+           <input name="Profile" id="fileupload" class="button" type='file' onchange="readURL(this);" style="visibility: hidden;"/>
         </label>
         </div>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
