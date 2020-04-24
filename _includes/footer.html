@@ -115,6 +115,30 @@
 <script src="//code.tidio.co/xk5k1lcxlr9mrmre44hcqqpw43n61rf8.js"></script>
 <!--End of tidio Script-->
 
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.2/firebase-analytics.js"></script>
+
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyDFjyGjySQXKxDn4es-P2ZFPubvwVVJQ_Y",
+    authDomain: "tagbit-20.firebaseapp.com",
+    databaseURL: "https://tagbit-20.firebaseio.com",
+    projectId: "tagbit-20",
+    storageBucket: "tagbit-20.appspot.com",
+    messagingSenderId: "454532833617",
+    appId: "1:454532833617:web:82b8eee4b228b8b2383370",
+    measurementId: "G-QML38FHHPR"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+
 <!-- Include the website scripts -->
 <script src="{{ '/assets/js/scripts.min.js' | prepend: site.baseurl }}"></script>
 <script src="{{ '/assets/js/reg.js' | prepend: site.baseurl }}"></script>
