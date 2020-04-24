@@ -33,7 +33,7 @@ layout: page
         <textarea name="message" onkeyup="adjust_textarea(this)" placeholder="{{ site.translations.contact.placeholders.message | default: 'Your message' }}" v-validate="'required'"
                   :class="{ 'has-error': errors.has('message') }"></textarea>
         <span v-if="errors.has('message')" v-cloak>${ errors.first('message') }</span>
-        <input type="file" name="Profile" accept="image/*" placeholder="Upload a Profile" v-validate="'required|profile'"
+        <input type="file" class="custom-file-input" name="Profile" accept="image/*" placeholder="Upload a Profile" v-validate="'required|profile'"
                :class="{ 'has-error': errors.has('profile') }">
         <span v-if="errors.has('profile')" v-cloak>${ errors.first('profile') }</span>
 
