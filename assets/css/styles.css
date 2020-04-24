@@ -3263,3 +3263,29 @@ icon-whte {
 		margin-top: 25px;
 	}
 }
+.reg-img{
+  max-width:180px;
+}
+.file {
+  text-align: center;
+  margin-bottom: 10px;
+}
+label {
+cursor: pointer;
+margin: 0px auto;
+display: inline-block;
+padding: 5px 0px 5px 0px;
+transition: all 1s ease;
+color: #fff;
+text-transform: capitalize;
+font-size: 15px;
+z-index: 1;
+position: relative;
+border-radius: 10px;
+background: linear-gradient(to right, #F45C43, #EB3349);
+text-align: center;
+font-weight: 600;
+width: 180px;
+height: 20px;
+font-family: ubuntu;
+}

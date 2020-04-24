@@ -18,6 +18,14 @@ layout: page
   <div id="form" class="contact-form">
     <form action="{{site.baseurl}}/contact/message-sent/" name="Contribotor Form" netlify>
       <fieldset>
+        <div class="file">
+          <img class="reg-img" id="blah" src="https://tagbit.tk/assets/img/logo-tagbit.png" alt="your image" />
+        </div>
+        <div class="file">
+        <label id="add-computer-button" for="fileupload">Upload
+           <input id="fileupload" class="button" type='file' onchange="readURL(this);" style="visibility: hidden;"/>
+        </label>
+        </div>
         <input type="hidden" name="_subject" value="{{ site.translations.contact.subject | default: 'New contact!' }}" />
         <input type="hidden" name="_next" value="{{ site.url }}{{ site.sent_message_url }}" />
         <input type="hidden" name="_language" value="{{ site.language }}" />
