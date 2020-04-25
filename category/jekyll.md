@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Jekyll
-slug: jekyll
+title: Jekyll Addon
+slug: jekyll addons
 ---
