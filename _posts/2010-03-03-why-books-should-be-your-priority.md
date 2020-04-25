@@ -1,5 +1,5 @@
 ---
-date: 2020-04-25 09:22:56
+date: 2020-04-25 10:53:57
 layout: post
 title: "Introduction to Odoo: What is Odoo?"
 subtitle: "Odoo: Open Source ERP and CRM"
