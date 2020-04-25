@@ -1,5 +1,5 @@
 ---
-date: 2020-04-24 13:45:13
+date: 2020-04-24T13:45:13.000Z
 layout: post
 title: "Introduction to Odoo: What is Odoo?"
 subtitle: "Odoo: Open Source ERP and CRM"
@@ -31,3 +31,32 @@ It offers you a single tool for all kind your business and it is able to integra
 ![apps](/assets/img/uploads/screenshot-4-.png "apps2")
 
 ![apps](/assets/img/uploads/screenshot-5-.png "apps3")
+
+
+
+## Why ODOO?
+
+The reasons why Odoo is perfect for your business is:
+
+* Single solution for your entire business.
+* Easily customizable.
+* Easy integration.
+* Low cost of implementation
+* Security
+* Scalable
+
+## ODOO vs Others
+
+Everything you need with a top notch user experience.
+
+![position-chart](/assets/img/uploads/position_chart.svg "position-chart")
+
+## NEED HELP?
+
+Hope you liked the information provided by us in the blog above! Feel free to share your thoughts in the comment section below…
+
+Do you want to use Odoo or just using it and need any customised module?
+
+If yes, then please contact.
+
+Thanks for paying attention!!
