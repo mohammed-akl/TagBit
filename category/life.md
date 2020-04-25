@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Life
-slug: life
-description: A category for life related posts.
+title: Odoo
+slug: Odoo
+description: "Odoo: Open Source ERP and CRM"
 ---
