@@ -1,5 +1,5 @@
 ---
-date: 2020-04-25 10:53:57
+date: 2020-04-25T10:53:57.000Z
 layout: post
 title: "Introduction to Odoo: What is Odoo?"
 subtitle: "Odoo: Open Source ERP and CRM"
@@ -13,6 +13,8 @@ tags:
   - Erp
   - read
   - crm
+  - odoo
+  - openerp
 author: hafis abdul rasak
 paginate: false
 ---
