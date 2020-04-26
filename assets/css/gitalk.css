@@ -1031,6 +1031,7 @@
   -webkit-transition: all 0.25s ease;
   transition: all 0.25s ease;
   box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.13);
+  border: 1px solid transparent;
 }
 .gt-container .gt-header-textarea:hover {
   background-color: #fbfbfb;
