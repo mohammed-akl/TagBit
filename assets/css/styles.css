@@ -1815,6 +1815,7 @@ body.light:not(.main-page) .bar-header .version {
 }
 
 .recommendation {
+	visibility: hidden;
 	font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
 	font-weight: 400;
 	font-style: normal;
