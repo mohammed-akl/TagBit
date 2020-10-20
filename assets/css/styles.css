@@ -427,7 +427,7 @@ aside.sidebar.open {
 aside.sidebar h2 {
 	margin: 0 1.25rem 0;
 	font-family: "Titillium Web", "Helvetica Neue", Helvetica, sans-serif;
-	font-weight: 400;
+	font-weight: 900;
 	font-style: normal;
 	font-size: 1.125rem;
 	color: #141414;
@@ -2556,7 +2556,8 @@ pre span {
 .author img {
 	width: 9.375rem;
 	display: block;
-	margin: auto
+	margin: auto;
+	border: 7px solid #e3e3e3;
 }
 
 @media (min-width: 37.5rem) {

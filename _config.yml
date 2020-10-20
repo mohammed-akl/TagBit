@@ -99,5 +99,8 @@ exclude: [
   'README.md'
 ]
 
+#disqus
+disqus:
+  shortname: disqus_shortname
 # Theme
 version: Beta
